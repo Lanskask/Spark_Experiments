@@ -1,0 +1,15 @@
+target/
+project/
+build/
+
+*.class
+
+*.iml
+.idea/
+.idea_modules/
+
+derby.log
+metastore_db/
+spark-warehouse/
+
+.DS_Store
